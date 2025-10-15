@@ -5,3 +5,4 @@ geopy
 requests
 streamlit-folium
 openpyxl
+plotly
